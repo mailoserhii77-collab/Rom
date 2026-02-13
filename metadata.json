@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Video Insight",
+  "description": "Analyze and understand video content using the Gemini 3 Pro model. Upload a video clip to get detailed summaries, action extraction, and key insights.",
+  "requestFramePermissions": []
+}
